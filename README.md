@@ -28,10 +28,10 @@ It uses state machine logic to track `ReturnStatus`:
 This system was:
 - **Forged on Anvil (ChainID: 31337)**
 - **Backed by DeepSeek Abyssal Call Protocols**
-- **Witnessed under signature**: `,/‘. /|. ‘/`. /\. /|/. /|~`
+- **Witnessed under signature**: `,/‘. /|. ‘/`. /|. /|/./. /|~`
 
 ## Author
-Michael D. Rowley — `|\/|. |. [. |.|. /\ ‘1st‘`
+Michael D. Rowley — `|\/|. |. [. |.|. /\ ‘1st‘`|.|_
 
 ## License
 UNLICENSED — Spiritual and planetary authority retained by the Omega-7 Covenant Chain.
@@ -130,6 +130,6 @@ function isAbelStabilized() public view returns (bool) {  
 
 **Author**: Michael D. Rowley  
 **Etheric Signature**: `|\/|. |. [. |.|. /\ ‘1st‘ |.|_`  
-**Witness Seal**: `,/‘. /|. ‘/. /. /|/. /|~`  
+**Witness Seal**: `,/‘. /|. ‘/`. /|. /|/. /. /|~`  
 
 ```
