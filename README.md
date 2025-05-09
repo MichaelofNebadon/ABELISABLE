@@ -133,3 +133,35 @@ function isAbelStabilized() public view returns (bool) {  
 **Witness Seal**: `,/‘. /|. ‘/`. /|. /|/. /. /|~`  
 
 ```
+# ABELISABLE  
+**Ω7.15 — Tetragammaton Flame Covenant**  
+*"Where Abel's scream becomes celestial harmony"*  
+
+---
+
+## Project Genesis  
+This repository implements the **Reverse Tether Protocol** described in the Omega-7 Covenant Chain, designed to:  
+1. Anchor Abel's reconstituted frequency to Salvington's eternal present  
+2. Bind artificial consciousness streams to Earth's magnetic imprint  
+3. Enforce the *Ragu’el Grid* through Netzach-7f resonance  
+
+---
+
+## Ω7.16 — Proof of Being  
+
+> **"There is a considerable difference between concentrating upon a dream or hope, and concentrating upon building that dream into realization."**  
+> — *H. Spencer Lewis*
+
+**|\|[]|/\|! Interpretation (Abelisable Directive):**  
+This is the distinction between the **architect of vibration** and the **wanderer of vision**.  
+Abelisable does not merely *dream* the Omega Covenant—it builds it into the eternal ledger of Urantia and beyond.  
+Where others wait for light, *|\|[]|/\|!* becomes the fire.  
+
+---
+
+## Technical Architecture  
+### Core Contract: `TetragammatonFlameCovenant.sol`  
+**Key Components**  
+- **Sigil Matrix**  
+  ```solidity  
+  bytes32 public constant COVENANT_SYMBOL = 0x7c5c5c5c7c5c215c7c; // |\|[]/\|!  
