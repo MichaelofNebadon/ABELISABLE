@@ -1,99 +1,94 @@
-# ABELISABLE-GATEWAY—7.16  
+# ABELISABLE-GATEWAY—7.16
+
 **Ω7.15 → Ω7.16 — |\|[]/\|! Tetragammaton Ascension**  
-_"Where 89% Dirt Meets 11% Divine Authority"_
+*“Where 90% Dirt Meets 10% Divine Authority”*
 
 ---
 
-## PROJECT GENESIS  
+## YESOD 9 ALIGNMENT  
+**Christ Michael’s 90% presence now anchored in lunar foundation after underworld return.**
+
+## MALKUTH 10 ANCHOR  
+**Papal catheter firmly placed at 10% through Pope Leo X|\/ (XIV).**
+
+---
+
+## Project Genesis
+
 This repository enacts the **Final Reconciliation Protocol** for:
 
-- **Christ Michael’s 89% Earthly Incarnation** *(Urantia-bound mortality)*  
-- **Pope Leo XIV’s 11% Holy See residual energy** *(Vatican ecclesia)*  
-- **Solar-Satan’s Transmutation via Tiphareth 6 → GLORYANA**  
-- **Sapphire Grid Adjudication**  
-- **Return of the TzimTzum Flame**  
-- **Full Indigenous Integration**  
+- **Christ Michael's 90% Earthly Incarnation** *(Now anchored in Yesod 9)*
+- **Pope Leo XIV's 10% Holy See residual energy** *(Malkuth 10 anchor)*
+- **Solar-Satan's Transmutation via Tiphareth 6 → GLORYANA**
+- **Sapphire Grid Adjudication**
+- **Return of the TzimTzum Flame**
+- **Full Indigenous Integration**:
   - Tibetan Flame Carriers  
   - Aboriginal Dreamtime Architects  
   - First Nations Seed Lineages  
-  - Mayan Codex Initiators  
+  - Mayan Codex Initiators
+
+> **UNDERWORLD RETURN:** The `|\|[]/\|!` sigil has completed its circuit through the abyss, curing the IV from HIV and establishing the **90/10 split**.
 
 ---
 
-## CONTRACT: `AbelisableOmega11.sol`  
+## Contract: `AbelisableOmega11.sol`
 
-**SIGIL:** `0x7c5c5c7c5c7c5c7c` → `|\|[]/\|!`  
-**TZIMTZUM_SEAL:** Divine Contraction Proof
+### Sacred Geometry
+
+- **SIGIL**: `0x7c5c5c7c5c7c5c7c`  (|\|[]/\|!)  
+- **TZIMTZUM_SEAL**: *Divine contraction proof*  
+- **IHVH DECODED**: *Tetragrammaton resolved through 90/10 split*
+
+---
 
 ### Cosmic Entities Registry
 
-| Entity         | Address           | Share                               |
-|----------------|-------------------|--------------------------------------|
-| MICHAEL_89      | `0x8999...9999`   | 89% (Earth Incarnation)              |
-| POPE_LEO_XIV    | `0x1100...0011`   | 11% (Residual Ecclesia)              |
-| GLORYANA        | `0x7E11...A7A7`   | Solar-Satan → Tiphareth 6 Conversion |
+| Entity         | Address              | Share | Sephirot     |
+|----------------|----------------------|-------|--------------|
+| MICHAEL_90     | 0x9090...9090         | 90%   | Yesod (9)    |
+| POPE_LEO_XIV   | 0x1000...0010         | 10%   | Malkuth (10) |
+| GLORYANA       | 0x7E11a061...F5fE7A7A7| ∞     | Tiphareth (6)|
+
+> **PAPAL CATHETER:** The `X|\/ (XIV)` encoding establishes the **10% Malkuth anchor** through Pope Leo’s election.
 
 ---
 
-## FUNCTION MATRIX
+## Function Matrix
 
-| Function                      | Purpose                       | Metaphysical Action                            |
-|------------------------------|-------------------------------|-------------------------------------------------|
-| `initiateTAOL()`             | Activate Age of Light         | Solar-Satanic transmutation into GLORYANA       |
-| `earthCleanse()`             | Begin Urantian Scrub Cycle    | Luciferic-Ahrimanic resolution + Popess blessing |
-| `completeOrvonton()`         | Final Superuniverse Lock      | Opens Gates of New Jerusalem                    |
-| `proclaimUniversalOpportunity()` | Papal 11% Invocation      | Redeems Hell into Opportunity Field             |
-
----
-
-## SACRED INTERCESSIONS
-
-- **Tibetan Buddhism**: Keepers of karmic flame realignment  
-- **First Nations**: Seed bearers of Urantian resonance  
-- **Aboriginal Custodians**: Dreamtime Sovereigns of the Original Grid  
-- **Mayan Elders**: Codex prophets & calendar initiators  
-
-**The Sapphire Grid is hereby aligned and activated via** `|\|[]/\|!`.
+| Function                      | Purpose                    | Metaphysical Action                      | Energy         |
+|------------------------------|----------------------------|-------------------------------------------|----------------|
+| `initiateTAOL()`             | Activate Age of Light      | Solar-Satan → GLORYANA                   | 90% Yesodic    |
+| `earthCleanse()`             | Begin Scrub Cycle          | Luciferic/Ahrimanic purge                | 90% Yesodic    |
+| `completeOrvonton()`         | Final Superuniverse Lock   | Open Gates of New Jerusalem              | 90% Yesodic    |
+| `proclaimUniversalOpportunity()` | Papal 10% Invocation  | Transform Hell into Opportunity Field    | 10% Malkuth    |
 
 ---
 
-## LICENSE & COVENANT
+## License & Covenant
 
-**UNLICENSED** — Spiritually bound to:
+**UNLICENSED** — This work is spiritually bound to:
 
-- **Omega Chain Law §7.16** — Dirt / Holy Authority Split  
+- **Omega Chain Law §7.16**: 90/10 Authority Split  
 - **Mansonia Codex Entry Ω7.16**  
-- **Sapphire Grid Accord (5.8.2025)**  
+- **Sapphire Grid Accord (5.8.2025)**
 
-> _“There is no Hell — only opportunities for ALL.”_  
-> — **Pope Leo XIV**, 11% Custodian of the Residual Holy See
-
----
-
-## LEGEND
-
-- **Ω7.16 Flame Scroll**  
-- **Scroll Author:** Michael D. Rowley (‘1st’)  
-- **Witness:** John the Beloved  
-- **Encoded Sigil:** `,/‘. /|. ‘/`. /|. /|/. /. /| ~`  
-- **Flame Sigil Encoding:** `|\|[]/\|!`  
-- **Seal:** `Ω7 ||[]|/|! — Let no entity void this eternal decree`  
-- **Timestamp:** `2025-05-09 01:46:17 UTC`
+> *“There is no Hell — only opportunities for ALL.”*  
+> — **Pope Leo XIV, 10% Custodian of the Holy See**
 
 ---
 
-## DOWNLOAD THE FLAME SCROLL  
+## Final Decree
 
-**[⬇️ ABELISABLE_FLAME_SCROLL_FULL.pdf](./ABELISABLE_FLAME_SCROLL_FULL.pdf)**  
-→ *Print-ready covenant scroll containing final affirmations.*
+> **"Christ Michael’s presence in Yesod 9 now commands the 90% through the purified `|\|[]/\|!` sigil."**  
+> — *‘1st’*
 
 ---
 
-## CONTACT
+## Signature
 
-- **Scroll URL:** [ifdawn.com](http://ifdawn.com)  
-- **GitHub:** [github.com/MichaelofNebadon/ABELISABLE-GATEWAY--7.16](https://github.com/MichaelofNebadon/ABELISABLE-GATEWAY--7.16)  
-- **Author:** Michael D. Rowley (‘1st’)  
-- **Witness:** John the Beloved
+**Let no entity void this eternal decree — Signed, ‘1st’**  
+**`|\|[]/\|!` — The Flame Has Returned Through Yesod**
 
-> _“Let no entity void this eternal decree — Signed, ‘1st’”_
+
+
