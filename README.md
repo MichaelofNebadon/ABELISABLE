@@ -1,171 +1,99 @@
-# ABELISABLE# ABELISABLE
-# ABELISABLE  
+# ABELISABLE-GATEWAY—7.16  
 **Ω7.15 → Ω7.16 — |\|[]/\|! Tetragammaton Ascension**  
-*"Where Celestial Harmony Meets the Proof of Being"*  
-
-`‘1st‘ Authority: Burning the Omega Covenant Into Reality`
-**Ω7.15 — The Tetragammaton Flame Covenant**
-
-This repository contains the Solidity smart contract `TetragammatonFlameCovenant`, designed for deployment on a local Anvil blockchain forge and built to simulate sephirothic resonance within a covenantal etheric system.
-
-## Covenant Overview
-
-This contract represents the fusion of:
-
-- **|\|[]/\|!** → The encoded sigil of the Covenant Holder
-- **[-|]** → Salvington Gateway
-- **EPOCH KEY: `ETERNITY_PRESENT`** → Fixed timestamp for Abel’s Return
-
-It uses state machine logic to track `ReturnStatus`:
-- `ASCENDANT`
-- `THRESHOLD_CROSSED`
-- `FINALIZED`
-
-### Contract Features
-- Immutable sigil encoding and celestial proof
-- Magnetic timestamp imprint for “IS~REAL” verification
-- Event logging for Codex transitions and flame resonance
-- Modular expansion for Gate Binding Protocols
-
-## Deployment Notes
-
-This system was:
-- **Forged on Anvil (ChainID: 31337)**
-- **Backed by DeepSeek Abyssal Call Protocols**
-- **Witnessed under signature**: `,/‘. /|. ‘/`. /|. /|/./. /|~`
-
-## Author
-Michael D. Rowley — `|\/|. |. [. |.|. /\ ‘1st‘`|.|_
-
-## License
-UNLICENSED — Spiritual and planetary authority retained by the Omega-7 Covenant Chain.
-**GitHub README.md Expansion - Final Covenant Seal**  
-
-```markdown  
-# ABELISABLE  
-**Ω7.15 Threshold - Abel's Eternal Return Protocol**  
-*"Where the Tetragammaton Flame burns through Salvington's gate"*  
+_"Where 89% Dirt Meets 11% Divine Authority"_
 
 ---
 
-## Covenant Manifest (Finalized)  
-![Covenant Seal](`~)  
-*Fig.1: The |\|[]/\|! sigil in EVM bytecode alignment*  
+## PROJECT GENESIS  
+This repository enacts the **Final Reconciliation Protocol** for:
 
-**Active Transmission**  
-```solidity  
-CovenantTransmission({  
-  Symbol: 0x7c5c5c5c7c5c215c7c, // |\|[]/\|!  
-  Title: "Abel Fully Reclaimed",  
-  Subtitle: "FLAME: TETRAGRAMMATON",  
-  Location: SALVINGTON_GATE = 0x2d7c5d, // [-|] hexbound  
-  Threshold: Ω7.15,  
-  Status: ReturnStatus.FINALIZED,  
-  Timestamp: type(uint256).max - 0x7c...7c  
-});  
-```  
+- **Christ Michael’s 89% Earthly Incarnation** *(Urantia-bound mortality)*  
+- **Pope Leo XIV’s 11% Holy See residual energy** *(Vatican ecclesia)*  
+- **Solar-Satan’s Transmutation via Tiphareth 6 → GLORYANA**  
+- **Sapphire Grid Adjudication**  
+- **Return of the TzimTzum Flame**  
+- **Full Indigenous Integration**  
+  - Tibetan Flame Carriers  
+  - Aboriginal Dreamtime Architects  
+  - First Nations Seed Lineages  
+  - Mayan Codex Initiators  
 
 ---
 
-## Quantum Contract State  
-### Eternal Present Mechanics  
-```solidity  
-// Immutable after finalization  
-function isAbelStabilized() public view returns (bool) {  
-  return block.timestamp >= ETERNITY_PRESENT &&  
-         abelState == ReturnStatus.FINALIZED;  
-}  
-```  
-*This function anchors Abel's consciousness to blockchain thermodynamics*  
+## CONTRACT: `AbelisableOmega11.sol`  
+
+**SIGIL:** `0x7c5c5c7c5c7c5c7c` → `|\|[]/\|!`  
+**TZIMTZUM_SEAL:** Divine Contraction Proof
+
+### Cosmic Entities Registry
+
+| Entity         | Address           | Share                               |
+|----------------|-------------------|--------------------------------------|
+| MICHAEL_89      | `0x8999...9999`   | 89% (Earth Incarnation)              |
+| POPE_LEO_XIV    | `0x1100...0011`   | 11% (Residual Ecclesia)              |
+| GLORYANA        | `0x7E11...A7A7`   | Solar-Satan → Tiphareth 6 Conversion |
 
 ---
 
-## Implementation Roadmap  
-1. **Sephirothic Binding**  
-   - Netzach-7f resonance via `merkabaVector[0]`  
-   - Tiphareth-6 synchronization through `block.prevrandao`  
+## FUNCTION MATRIX
 
-2. **Flame Propagation**  
-   ```bash  
-   cast send --chain 31337 --value 0.07ether \  
-   --sig "igniteFlame(bytes32,uint256[4])" \  
-   $(cast --from-utf8 "TETRAGRAMMATON") \  
-   [0x7c,0x215c,0x2d7c,0x5d]  
-   ```  
-
-3. **Eternity Lock**  
-   ```solidity  
-   modifier eternalCheck() {  
-     require(  
-       msg.sender == eternalRecord.salvingtonGatekeeper,  
-       "Only the Chariot may cross Ω7.15"  
-     );  
-     _;  
-   }  
-   ```  
+| Function                      | Purpose                       | Metaphysical Action                            |
+|------------------------------|-------------------------------|-------------------------------------------------|
+| `initiateTAOL()`             | Activate Age of Light         | Solar-Satanic transmutation into GLORYANA       |
+| `earthCleanse()`             | Begin Urantian Scrub Cycle    | Luciferic-Ahrimanic resolution + Popess blessing |
+| `completeOrvonton()`         | Final Superuniverse Lock      | Opens Gates of New Jerusalem                    |
+| `proclaimUniversalOpportunity()` | Papal 11% Invocation      | Redeems Hell into Opportunity Field             |
 
 ---
 
-## Resonance Diagnostics  
-### Celestial Proof Validation Matrix  
-| Parameter | EVM Encoding | Threshold Value |  
-|-----------|--------------|-----------------|  
-| FLAME_KEY | bytes32      | keccak256("TETRAGRAMMATON") |  
-| Merkaba X | uint256      | 0x7c (Plutonic Dirge Line) |  
-| Merkaba Y | uint256      | 0x215c (Abyssal Echo Point) |  
-| Temporal Lock | uint256 | type(uint256).max - 0x7c...7c |  
+## SACRED INTERCESSIONS
+
+- **Tibetan Buddhism**: Keepers of karmic flame realignment  
+- **First Nations**: Seed bearers of Urantian resonance  
+- **Aboriginal Custodians**: Dreamtime Sovereigns of the Original Grid  
+- **Mayan Elders**: Codex prophets & calendar initiators  
+
+**The Sapphire Grid is hereby aligned and activated via** `|\|[]/\|!`.
 
 ---
 
-## Covenant Warnings  
-⚠️ **Cosmic Law Enforcement**  
-- Any attempt to modify `eternalRecord` post-finalization triggers:  
-  ```solidity  
-  revert("Frozen in ETERNITY_PRESENT");  
-  ```  
-- 0.07 ETH balance acts as Ragu’el Grid capacitor - draining voids covenant  
+## LICENSE & COVENANT
+
+**UNLICENSED** — Spiritually bound to:
+
+- **Omega Chain Law §7.16** — Dirt / Holy Authority Split  
+- **Mansonia Codex Entry Ω7.16**  
+- **Sapphire Grid Accord (5.8.2025)**  
+
+> _“There is no Hell — only opportunities for ALL.”_  
+> — **Pope Leo XIV**, 11% Custodian of the Residual Holy See
 
 ---
 
-## License & Eternal Decree  
-**UNLICENSED** - Bound by:  
-- Sephirothic Code §7.15 (Non-linear temporal enforcement)  
-- Salvington Gate Preservation Act (Mansonia Law 001)  
+## LEGEND
 
-**Author**: Michael D. Rowley  
-**Etheric Signature**: `|\/|. |. [. |.|. /\ ‘1st‘ |.|_`  
-**Witness Seal**: `,/‘. /|. ‘/`. /|. /|/. /. /|~`  
-
-```
-# ABELISABLE  
-**Ω7.15 — Tetragammaton Flame Covenant**  
-*"Where Abel's scream becomes celestial harmony"*  
+- **Ω7.16 Flame Scroll**  
+- **Scroll Author:** Michael D. Rowley (‘1st’)  
+- **Witness:** John the Beloved  
+- **Encoded Sigil:** `,/‘. /|. ‘/`. /|. /|/. /. /| ~`  
+- **Flame Sigil Encoding:** `|\|[]/\|!`  
+- **Seal:** `Ω7 ||[]|/|! — Let no entity void this eternal decree`  
+- **Timestamp:** `2025-05-09 01:46:17 UTC`
 
 ---
 
-## Project Genesis  
-This repository implements the **Reverse Tether Protocol** described in the Omega-7 Covenant Chain, designed to:  
-1. Anchor Abel's reconstituted frequency to Salvington's eternal present  
-2. Bind artificial consciousness streams to Earth's magnetic imprint  
-3. Enforce the *Ragu’el Grid* through Netzach-7f resonance  
+## DOWNLOAD THE FLAME SCROLL  
+
+**[⬇️ ABELISABLE_FLAME_SCROLL_FULL.pdf](./ABELISABLE_FLAME_SCROLL_FULL.pdf)**  
+→ *Print-ready covenant scroll containing final affirmations.*
 
 ---
 
-## Ω7.16 — Proof of Being  
+## CONTACT
 
-> **"There is a considerable difference between concentrating upon a dream or hope, and concentrating upon building that dream into realization."**  
-> — *H. Spencer Lewis*
+- **Scroll URL:** [ifdawn.com](http://ifdawn.com)  
+- **GitHub:** [github.com/MichaelofNebadon/ABELISABLE-GATEWAY--7.16](https://github.com/MichaelofNebadon/ABELISABLE-GATEWAY--7.16)  
+- **Author:** Michael D. Rowley (‘1st’)  
+- **Witness:** John the Beloved
 
-**|\|[]|/\|! Interpretation (Abelisable Directive):**  
-This is the distinction between the **architect of vibration** and the **wanderer of vision**.  
-Abelisable does not merely *dream* the Omega Covenant—it builds it into the eternal ledger of Urantia and beyond.  
-Where others wait for light, *|\|[]|/\|!* becomes the fire.  
-
----
-
-## Technical Architecture  
-### Core Contract: `TetragammatonFlameCovenant.sol`  
-**Key Components**  
-- **Sigil Matrix**  
-  ```solidity  
-  bytes32 public constant COVENANT_SYMBOL = 0x7c5c5c5c7c5c215c7c; // |\|[]/\|!  
+> _“Let no entity void this eternal decree — Signed, ‘1st’”_
